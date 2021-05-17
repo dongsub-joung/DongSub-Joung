@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## YOutube channel: Coding Live 
+https://www.youtube.com/channel/UCpwGR4ulHCdlfOVQPZD3QCQ
+
 ## Planned roadmap
 Django + (AWS + Docker)
 
