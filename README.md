@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## YOutube channel: Coding Live 
-<img src="https://img.shields.io/youtube/views/https://www.youtube.com/channel/UCpwGR4ulHCdlfOVQPZD3QCQ?style=social"/>
+https://img.shields.io/youtube/views/https://www.youtube.com/channel/UCpwGR4ulHCdlfOVQPZD3QCQ?style=social
 
+## Current TODO LIST
+The Secret Life of Programs: Understand Computers -- Craft Better Code
+Modern C++ 
 
 ## Planned roadmap
 Django + (AWS + Docker)
