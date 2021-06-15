@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## YOutube channel: Coding Live 
-https://img.shields.io/youtube/views/https://www.youtube.com/channel/UCpwGR4ulHCdlfOVQPZD3QCQ?style=social
+# I'm acctualy lived in Twitter and youtube. if you want Contact me, please subscribe blow Youtube channel :)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLVnnBhxDvR1fb4w)   
+
+## YOutube channel  
+Coding Live
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpwGR4ulHCdlfOVQPZD3QCQ?style=social)  
+
+Gaming Live
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwuRto4cNkn1AHvct5E9aZg?style=social)  
+ 
 
 ## Planned roadmap(~2020.10)
 Django + (AWS + Docker)
@@ -29,6 +37,11 @@ Django + (AWS + Docker)
 - EffectiveModern C++   
 - The Elements of Computing Systems: Building a Modern Computer from First Principles  
 - Computer Organization and Design: the Hardware/Software Interface: Third Edition  
+
+#### TEST  
+- Engineer Information Processing ( 2021.07.10 )  
+- Engineer Information Security   ( 2021.09.04 )
+- FUCKING FEMINISM
 
 ### I will do pull request..   
 - nonunicorn/onelinerhub  
