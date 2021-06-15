@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 # I'm acctualy lived in Twitter and youtube. if you want Contact me, please subscribe blow Youtube channel :)
+[TWITTER](https://twitter.com/dong_ub)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLVnnBhxDvR1fb4w)   
 
 ## YOutube channel  
-Coding Live
+[Coding Live](https://www.youtube.com/channel/UCpwGR4ulHCdlfOVQPZD3QCQ)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpwGR4ulHCdlfOVQPZD3QCQ?style=social)  
 
-Gaming Live
+[Gaming Live](https://www.youtube.com/channel/UCwuRto4cNkn1AHvct5E9aZg)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwuRto4cNkn1AHvct5E9aZg?style=social)  
  
 
